@@ -1,0 +1,7 @@
+{
+  "name": "HireHelp AI: The Smart Onboarding Assistant",
+  "description": "An intelligent AI-powered onboarding companion for new employees. It leverages a company knowledge base to provide instant, accurate answers about leave policies, office timings, dress codes, and upcoming holidays.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
